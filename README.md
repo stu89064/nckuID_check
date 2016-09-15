@@ -1,2 +1,2 @@
 # nckuID_check
-用來檢驗成功入口ID與密碼驗證
+This tool is used to validate the ID and password of NCKU SSO account (PISA).
